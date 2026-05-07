@@ -1,0 +1,9 @@
+{
+  "name": "image-pdf-compressor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local web app for resizing images and checking PDF compression.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
