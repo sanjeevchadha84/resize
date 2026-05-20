@@ -1,6 +1,7 @@
 # Image and PDF Compressor
+Resizing documents for a particular application is always a challenge, especially personal documents that contain PII. Reliance on Online tools is always a safety concern as PII can be parsed, tracked or images might be saved on the server. 
 
-A small local web application for resizing document photos, resizing signatures, cropping images, preparing images for a `75 KB to 100 KB` upload limit, and checking PDF compression.
+Created a small local OFFLINE, web application for resizing document photos, resizing signatures, cropping images, preparing images for a `75 KB to 100 KB` upload limit, and checking PDF compression.
 
 The app runs in your browser. Image processing happens locally on your machine.
 
